@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NGB Serdos</string>
+    <string name="hitung_activity">Mulai Hitung</string>
+    <string name="nap">NAP(Ijazah dan Jafa)</string>
+    <string name="nkp">NKP(Golongan)</string>
+    <string name="nps">Nilai Persepsional</string>
+    <string name="nbi">Nilai TOEP(Bhs. Inggris)</string>
+    <string name="npa">Nilai TKDA pot Ak</string>
+    <string name="calculate">Hitung</string>
+    <string name="result">Nilai Gabungan (NGB)</string>
+    <string name="about">Tentang</string>
+    <string name="title_activity_tentang">TentangActivity</string>
+</resources>
